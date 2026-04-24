@@ -3,5 +3,8 @@ description: Latest updates on the NightDrive project
 
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
+header_pages:
+  - index.md
+
 plugins:
   - jekyll-remote-theme
