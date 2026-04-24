@@ -1,1 +1,7 @@
-theme: jekyll-theme-clean-blog
+title: NightDrive Blog
+description: Latest updates on the NightDrive project
+
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+
+plugins:
+  - jekyll-remote-theme
