@@ -1,1 +1,1 @@
-nightdrive-cgmdisplay.github.io
+[Blog](https://nightdrive-cgmdisplay.github.io)
